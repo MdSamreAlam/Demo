@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "81UTFT+VysiARPMJMnGWoEQ3ey9Btfpxo4fF5CRRDnvlyE7tcqG2345aMqfJqDoJGFTKqibcbK32nh1D2WBZeA==",
+  "success": true,
+  "projectFilePath": "C:\\Demoproject\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arpita Nayak\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Arpita Nayak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
